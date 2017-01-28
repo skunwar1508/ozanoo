@@ -18,7 +18,7 @@ $db = new Database();
         </div>
         <div class="col-sm-8">
         <div class="about_heading">
-        	<h2>About Us</h2>
+        	<h2>About Us to Contact</h2>
         </div>
         	<div class="about_content">
             	<p>We are a group of passionate people based out of Jaipur who came together with a challenge to fight the burgeoning inflation which is common problem of every household in India.</p>
@@ -29,7 +29,7 @@ $db = new Database();
         </div>
         <div class="about_content_list about_content">
         	<div class="about_heading">
-        	<h2>Our Aim</h2>
+        	<h2>Our Aim this is test</h2>
         </div>
        <ul>
        	<li>We Aim is to simplify the shopping experience of customers by saving them a lot of time & money when they shop with us.</li>
@@ -42,7 +42,7 @@ $db = new Database();
         	<div class="about_heading">
         	<h2>Our Team</h2>
         </div>
-       <p>We have a team of experienced & enthusiastic designers & staff whose knowledge & understanding is comparable to none. Our team members are very much dedicated & passionate about their work and always ready to cater for customer service. They help us to design best quality products that suits well to our customers. Customer satisfaction is our team's main focus. So they don't hesitate to go out of the way for customer satisfaction.</p>
+       <p>We have a team of experienced & enthusiastic designers & staff whose knowledge & understanding is comparable to none. Our team members are very much dedicated & passionate about their work and always ready to cater for customer service. They help us to design best quality products that suits well to our customers. Customer satisfaction is our team's main focus. So they don't hesitate to go out of the way for customer satisfaction. hello</p>
         </div>
         <div class="about_content_list about_content about_content">
         	<div class="about_heading">
