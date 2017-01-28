@@ -21,7 +21,7 @@ $db = new Database();
         	<h2>About Us to Contact</h2>
         </div>
         	<div class="about_content">
-            	<p>We are a group of passionate people based out of Jaipur who came together with a challenge to fight the burgeoning inflation which is common problem of every household in India.</p>
+            	<p>Hello We are a group of passionate people based out of Jaipur who came together with a challenge to fight the burgeoning inflation which is common problem of every household in India.</p>
                 <p>We have been present online from  9th July and earlier we were serving people of Rajasthan.</p>
                 <p> We had a no. of satisfied & happy customers who bought with us. We build a niche bond with our customers & that's why we have a no. of repeat customers within this short period of our presence & this earned us a lot of popularity in Rajasthan during this short span. After running successfully in Rajasthan, we feel that we need to serve people across PAN INDIA. So this motivated us to expand our reach to entire India. We care for our customers & just want a never ending smile on their face.</p>
             </div>
